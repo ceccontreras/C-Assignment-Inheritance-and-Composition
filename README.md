@@ -1,5 +1,4 @@
 # C++ Assignment: Inheritance and Composition in a Banking System
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ceccontreras/C-Assignment-Inheritance-and-Composition)
 
 This repository contains a C++ console application that demonstrates object-oriented programming principles, specifically inheritance and polymorphism, through a simple banking system. The program manages a checking and a savings account, allowing a user to perform various transactions via a menu-driven interface.
 
